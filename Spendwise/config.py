@@ -1,5 +1,6 @@
 MYSQL_HOST = 'localhost'
 MYSQL_USER = 'root'
-MYSQL_PASSWORD = 'av31'
+MYSQL_PASSWORD = 'Your passowrd here'
 MYSQL_DB = 'spendwise'
+
 
